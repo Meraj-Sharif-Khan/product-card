@@ -13,8 +13,8 @@
 
 ### Links
 
-- Solution URL: [solution URL]()
-- Live Site URL: [live site URL]()
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-solution-css-flex-grid-bem-Cy14Ms9zek)
+- Live Site URL: [live site URL](https://meraj-sharif-khan.github.io/product-card/)
 
 ### Built with
 
